@@ -1,0 +1,26 @@
+{
+    "a": {
+        "name": "neelam",
+        "disgination": "programer",
+        "age": "24",
+        "salary": "2400"
+    },
+    "b": {
+        "name": "komal",
+        "disgination": "trainer",
+        "age": "24",
+        "salary": "20000"
+    },
+    "c": {
+        "name": "anuradha",
+        "disgination": "HR",
+        "age": "25",
+        "salary": "40000"
+    },
+    "d": {
+        "name": "Abhishek",
+        "disgination": "manager",
+        "age": "29",
+        "salary": "63000"
+    }
+}
